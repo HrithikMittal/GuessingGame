@@ -12,4 +12,4 @@ README.md: guessinggame.sh
 	echo "\n------\n" >> README.md
 	echo "Made possible by: \n" >> README.md
 	echo "https://www.coursera.org/learn/unix/home/welcome\n" >> README.md
-	echo "https://github.com/seankross/the-unix-workbench\n" >> README.md
+	echo "https://github.com/HrithikMittal/the-unix-workbench\n" >> README.md
